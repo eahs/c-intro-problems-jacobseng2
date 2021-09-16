@@ -2,3 +2,8 @@
 ## CSharp Intro Problems
 
 Complete the Okapi and Vowel Shifter problems and commit your changes to Github.
+
+Project: C# Intro Problems
+Gabriel Jacobsen
+
+There's an Okapi machine and a vowel shifter
